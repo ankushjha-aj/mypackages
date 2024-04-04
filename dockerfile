@@ -1,2 +1,2 @@
 FROM alpine 
-CMD [ "echo", "Hello world This container is good or testing " ]
+CMD [ "echo", "Hello world This container image is built using Github Actions " ]
